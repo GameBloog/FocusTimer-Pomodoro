@@ -38,7 +38,7 @@ PT = Colocando em prática os estudos do Explorer da Rocketseat, utilizando HTML
 
 To use this project, go to the link:
 
-[Link Project](https://GameBloog.github.io/Focus-Timer-Pomodoro/)
+[Link Project](https://GameBloog.github.io/FocusTimer-Pomodoro/)
 
 ## Contact
 
